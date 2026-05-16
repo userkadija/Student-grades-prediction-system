@@ -59,3 +59,8 @@ Flask
 🎯 Key Outcome
 
 The system successfully predicts final student grades and helps identify students who may need additional academic support, enabling early intervention and better educational outcomes.
+
+![Model Predictions](screenshot(53).png)
+![Model Performance](screenshot(65).png)
+![Dataset Overview](screenshot(52).png)
+![Visualizations](screenshot(18).png)
