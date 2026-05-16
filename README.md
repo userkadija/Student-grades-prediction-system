@@ -64,3 +64,8 @@ The system successfully predicts final student grades and helps identify student
 ![Model Performance](screenshot(65).png)
 ![Dataset Overview](screenshot(52).png)
 ![Visualizations](screenshot(18).png)
+
+<img src="screenshot(53).png" width="700"/>
+<img src="screenshot(65).png" width="700"/>
+<img src="screenshot(52).png" width="700"/>
+<img src="screenshot(18).png" width="700"/>
