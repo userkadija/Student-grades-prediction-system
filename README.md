@@ -61,5 +61,8 @@ Flask
 The system successfully predicts final student grades and helps identify students who may need additional academic support, enabling early intervention and better educational outcomes.
 
 Project Screenshots
-
+<img src="dataset.png" width="700"/>
+<img src="prediction.png" width="700"/>
+<img src="performance.png" width="700"/>
+<img src="visualization.png" width="700"/>
 
